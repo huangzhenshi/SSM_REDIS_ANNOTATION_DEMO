@@ -1,0 +1,6 @@
+nginx 的配置参考配置文件
+
+修改好后访问路径： http://localhost/lyz/check.do?id=1
+
+记住要启动 redis 服务器
+记得要同时开启 两台server上面的 tomcat，并且两个不同tomcat下面的  login.jsp 里面的内容不同。
